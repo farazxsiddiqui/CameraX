@@ -37,8 +37,9 @@ dependencies {
 ```
 ### Image
 ```
-![demo_CameraX](https://user-images.githubusercontent.com/103539360/168492565-09c75858-b6f2-4014-b700-402c858fa9c2.png)
-
+<p align="center">
+  <img src="demo/demo_CameraX" width="350" title="hover text">
+</p>
 
 ```
 ### Permissions:
