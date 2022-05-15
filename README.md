@@ -37,7 +37,7 @@ dependencies {
 ```
 ### Image
 ```
-![Image](https://github.com/farazxsiddiqui/CameraX/blob/master/demo/demo_CameraX.png?raw=true "Image")
+![Image](https://github.com/farazxsiddiqui/CameraX/blob/master/demo/demo_CameraX.png)
 
 ```
 ### Permissions:
