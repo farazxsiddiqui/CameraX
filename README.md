@@ -34,8 +34,14 @@ dependencies {
     // CameraX View class
     implementation 'androidx.camera:camera-view:1.0.0-alpha25'
 }
-<img src="demo/demo_CameraX.png" width=270 height=480>
-
+```
+### Image
+```
+<table>
+  <tr>
+    <td><img src="demo/demo_CameraX.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ```
 ### Permissions:
