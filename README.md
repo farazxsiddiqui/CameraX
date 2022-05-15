@@ -6,7 +6,7 @@ This project is a reference code made for the video 'Camera X in Java | Image Ca
 
 [Watch tutorial](https://youtu.be/IrwhjDtpIU0)
 
-## Getting Started
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
 
@@ -16,7 +16,7 @@ The things you need before installing the software.
 
 * Android Studio
 
-## Installation:
+### Installation:
 Clone this repository and import into **Android Studio**
 ```bash
 git clone https://github.com/farazxsiddiqui/CameraX.git
@@ -31,9 +31,6 @@ First enable these permissions manually from the app info in device settings.
 * Files and Media
 
 ### Image
-```
-```
-
 <table>
   <tr>
   <td><img src="demo/demo_CameraX.png" width=250 height=500></td>
