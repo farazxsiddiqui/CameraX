@@ -4,7 +4,7 @@ Implementation of CameraX In Java.
 ### Tutorial
 This project is a reference code made for the video 'Camera X in Java | Image Capture, Video Capture, Image Analysis'.
 
-[Watch tutorial here] (https://youtu.be/IrwhjDtpIU0)
+[Watch tutorial here](https://youtu.be/IrwhjDtpIU0)
 
 ## Getting Started
 
