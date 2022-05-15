@@ -34,12 +34,10 @@ dependencies {
     // CameraX View class
     implementation 'androidx.camera:camera-view:1.0.0-alpha25'
 }
-![Image](https://github.com/farazxsiddiqui/CameraX/blob/ac5e0337f1c8e547da9158629a33a67866c96533/demo/demo_CameraX.png)
-
 ```
 ### Image
 ```
-![Image](https://github.com/farazxsiddiqui/CameraX/blob/ac5e0337f1c8e547da9158629a33a67866c96533/demo/demo_CameraX.png)
+![Text](https://github.com/farazxsiddiqui/CameraX/blob/ac5e0337f1c8e547da9158629a33a67866c96533/demo/demo_CameraX.png)
 
 ```
 ### Permissions:
