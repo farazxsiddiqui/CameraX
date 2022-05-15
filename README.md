@@ -33,13 +33,7 @@ dependencies {
 
     // CameraX View class
     implementation 'androidx.camera:camera-view:1.0.0-alpha25'
-}
-```
-### Image
-```
-<p align="center">
-  <img src="demo/demo_CameraX" width="350" title="hover text">
-</p>
+    }
 
 ```
 ### Permissions:
