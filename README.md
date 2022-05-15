@@ -37,11 +37,7 @@ dependencies {
 ```
 ### Image
 ```
-<table>
-  <tr>
-    <td><img src="demo/demo_CameraX.png" width=270 height=480></td>
-  </tr>
- </table>
+![Image](https://github.com/farazxsiddiqui/CameraX/blob/master/demo/demo_CameraX.png?raw=true "Image")
 
 ```
 ### Permissions:
