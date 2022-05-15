@@ -1,12 +1,12 @@
 # CameraX in Java
 Implementation of CameraX In Java.
 
-### Tutorial
+## Tutorial
 This project is a reference code made for the video 'Camera X in Java | Image Capture, Video Capture, Image Analysis'.
 
 [Watch tutorial](https://youtu.be/IrwhjDtpIU0)
 
-### Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
 
@@ -30,7 +30,7 @@ First enable these permissions manually from the app info in device settings.
 * Microphone
 * Files and Media
 
-### Image
+## Image
 <table>
   <tr>
   <td><img src="demo/demo_CameraX.png" width=250 height=500></td>
