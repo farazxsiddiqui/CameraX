@@ -34,6 +34,9 @@ dependencies {
     // CameraX View class
     implementation 'androidx.camera:camera-view:1.0.0-alpha25'
 }
+<img src="demo/demo_CameraX.png" width=270 height=480>
+
+
 ```
 ### Permissions:
 First enable permissions from the app info in device settings.
