@@ -1,10 +1,10 @@
-# CameraX-In-Java
+# CameraX in Java
 Implementation of CameraX In Java.
 
 ### Tutorial
 This project is a reference code made for the video 'Camera X in Java | Image Capture, Video Capture, Image Analysis'.
 
-Link: https://youtu.be/IrwhjDtpIU0
+[Watch tutorial here] (https://youtu.be/IrwhjDtpIU0)
 
 ## Getting Started
 
@@ -20,21 +20,6 @@ The things you need before installing the software.
 Clone this repository and import into **Android Studio**
 ```bash
 git clone https://github.com/farazxsiddiqui/CameraX.git
-```
-
-## Configuration
-### Gradle Dependencies:
-```
-dependencies {
-    def cameraxVersion = "1.1.0-alpha05"
-    implementation "androidx.camera:camera-core:${cameraxVersion}"
-    implementation "androidx.camera:camera-camera2:${cameraxVersion}"
-    implementation "androidx.camera:camera-lifecycle:${cameraxVersion}"
-
-    // CameraX View class
-    implementation 'androidx.camera:camera-view:1.0.0-alpha25'
-    }
-
 ```
 ### Permissions:
 First enable permissions from the app info in device settings.
