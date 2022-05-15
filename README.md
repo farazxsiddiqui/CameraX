@@ -44,11 +44,12 @@ First enable permissions from the app info in device settings.
 * Microphone
 * Read/Write External Storage
 ```
+### Image
 ```
-### Image:
 ```
+
 <table>
   <tr>
-  <td><img src="demo/demo_CameraX.png" width=250 height=480></td>
+  <td><img src="demo/demo_CameraX.png" width=250 height=500></td>
   </td>
  </table>
