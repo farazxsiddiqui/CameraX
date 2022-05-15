@@ -44,3 +44,5 @@ First enable permissions from the app info in device settings.
 * Microphone
 * Read/Write External Storage
 ```
+
+![demo_CameraX](https://user-images.githubusercontent.com/103539360/168492745-518a5366-ccd5-4125-87d4-1af94c4c8414.png)
