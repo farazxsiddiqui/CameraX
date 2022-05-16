@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
 
+    @SuppressLint("RestrictedApi")
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
@@ -105,6 +106,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     recordVideo();
                 } else {
                     bRecording.setText("Record");
+                    videoCapture.stopRecording();
                 }
                 break;
             }
@@ -142,12 +144,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     new VideoCapture.OnVideoSavedCallback() {
                         @Override
                         public void onVideoSaved(@NonNull VideoCapture.OutputFileResults outputFileResults) {
-
+                            Toast.makeText(MainActivity.this,"Saving...",Toast.LENGTH_SHORT).show();
                         }
 
                         @Override
                         public void onError(int videoCaptureError, @NonNull String message, @Nullable Throwable cause) {
-
+                            Toast.makeText(MainActivity.this,"Error: "+ message ,Toast.LENGTH_SHORT).show();
                         }
                     }
 
