@@ -96,20 +96,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
-            case R.id.bCapture: {
-                capturePhoto();
-                break;
-            }
             case R.id.bRecord: {
-                if (bRecording.getText() == "Record") {
-                    bRecording.setText("Stop");
+                if (bRecording.getText() == "RECORD") {
+                    bRecording.setText("STOP");
                     recordVideo();
                 } else {
-                    bRecording.setText("Record");
+                    bRecording.setText("RECORD");
                     videoCapture.stopRecording();
                 }
                 break;
             }
+            case R.id.bCapture: {
+                capturePhoto();
+                break;
+            }
+
         }
 
 
